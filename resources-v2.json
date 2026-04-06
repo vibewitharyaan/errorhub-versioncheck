@@ -1,0 +1,22 @@
+{
+  "eh_fivem_template": {
+    "version": "1.0.0",
+    "changelog_url": "https://errorhub.gitbook.io//docs/our-scripts/eh-fivem-template/changelog"
+  },
+  "eh_cutscene_free": {
+    "version": "3.2.5",
+    "changelog_url": "https://errorhub.gitbook.io/docs/our-scripts/advanced-cutscene/changelog"
+  },
+  "eh_cutscene_paid": {
+    "version": "3.2.5",
+    "changelog_url": "https://errorhub.gitbook.io/docs/our-scripts/advanced-cutscene/changelog"
+  },
+  "eh_antirelease_shield": {
+    "version": "1.2.0",
+    "changelog_url": "https://errorhub.gitbook.io/docs/our-scripts/anti-release-shield/changelog"
+  },
+  "raycrest_restaurant_job": {
+    "version": "1.3.2",
+    "changelog_url": "https://errorhub.gitbook.io/docs/our-scripts/raycrest-restaurant/changelog"
+  }
+}
