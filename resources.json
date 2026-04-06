@@ -12,7 +12,7 @@
     "notes": "Optimized to support low-end PCs. Users with slower systems should no longer experience timeouts when joining the server."
   },
   "raycrest_restaurant_job": {
-    "version": "1.3.1",
+    "version": "1.3.2",
     "notes": "- Fixed payment system failing to add money to business accounts\n- Fixed displacement issues with cold drink prop animations\n- Improved resource detection logic to prevent incorrect system selection\n- Pending billing requests now clear automatically if a player disconnects"
   }
 }
