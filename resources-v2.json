@@ -18,5 +18,13 @@
   "raycrest_restaurant_job": {
     "version": "1.3.2",
     "changelog_url": "https://errorhub.gitbook.io/docs/our-scripts/raycrest-restaurant/changelog"
+  },
+  "eh_vehiclerental": {
+    "version": "1.0.0",
+    "changelog_url": "https://errorhub.gitbook.io/docs/our-scripts/advanced-vehicle-rental/changelog"
+  },
+  "eh_citystatus": {
+    "version": "1.0.0",
+    "changelog_url": "https://errorhub.gitbook.io/docs/our-scripts/citystatus/changelog"
   }
 }
