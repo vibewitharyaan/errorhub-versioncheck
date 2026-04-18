@@ -4,11 +4,11 @@
     "changelog_url": "https://errorhub.gitbook.io//docs/our-scripts/eh-fivem-template/changelog"
   },
   "eh_cutscene_free": {
-    "version": "3.2.5",
+    "version": "3.3.0",
     "changelog_url": "https://errorhub.gitbook.io/docs/our-scripts/advanced-cutscene/changelog"
   },
   "eh_cutscene_paid": {
-    "version": "3.2.5",
+    "version": "3.3.0",
     "changelog_url": "https://errorhub.gitbook.io/docs/our-scripts/advanced-cutscene/changelog"
   },
   "eh_antirelease_shield": {
