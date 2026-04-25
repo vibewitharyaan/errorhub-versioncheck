@@ -26,5 +26,9 @@
   "eh_citystatus": {
     "version": "1.0.0",
     "changelog_url": "https://errorhub.gitbook.io/docs/our-scripts/citystatus/changelog"
+  },
+  "eh_loadingscreen_v1": {
+    "version": "1.0.0",
+    "changelog_url": "https://errorhub.gitbook.io/docs/our-scripts/loading-screen-v1/changelog"
   }
 }
